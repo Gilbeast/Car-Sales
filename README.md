@@ -5,6 +5,13 @@
 
 ![Dashboard](https://github.com/Gilbeast/Car-Sales/assets/112081867/182f10fe-9f91-4b6d-86e2-c2fc29fd42b5)
 
+## Data-Used
+Data - Car Sales Data
+
+Data Cleaning & Analysis - Microsoft Excel
+
+Data Visualization - Tableau
+
 ## Background: 
 
 Our company is a car dealership that sells various car models. To effectively track and analyse our sales performance, we need a comprehensive Car Sales Dashboard in Power BI. 
